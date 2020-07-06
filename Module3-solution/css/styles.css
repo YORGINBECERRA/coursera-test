@@ -1,3 +1,8 @@
+       
+* {
+  box-sizing: border-box;
+}
+
 #brand-title { 
   font-family: Arial;
   color: #ec1c1c;
@@ -18,12 +23,6 @@
   border: 0px;
   background: #c9c6c1;
  
-}
-
-       
-* {
-  
-  box-sizing: border-box;
 }
 
 h1 {
@@ -50,8 +49,7 @@ section{
   position: relative;
   margin-right: 20px;
   margin-left: 20px;
-  
-	overflow: auto;
+  overflow: auto;
 }
 
 #p1 {
